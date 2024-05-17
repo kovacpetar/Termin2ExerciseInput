@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZNyw/hmsJjyQh72kltpDd1ew04AOub3so85YITXrOOU=",
+  "Source": "TaskMngWebAPI",
+  "BasePath": "_content/TaskMngWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
